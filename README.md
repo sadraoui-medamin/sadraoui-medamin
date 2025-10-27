@@ -25,33 +25,46 @@
 <p align="center">
   
    <!-- </> Programming languages -->
-  <b>langages</b><br/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Coding-FullStack-ff69b4?style=for-the-badge&logo=github&logoColor=white&animation=glitch" alt="Langages" />
+</p>
+
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php," /><br/><br/>
   
   <!-- 🎨 Frontend -->
-  <b>Frontend</b><br/>
+     <p align="center">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🎨 frontend" />
+  </p>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui," /><br/><br/>
 
   <!-- 🧠 Backend, Database & APIs -->
-  <b>Backend / Database / API</b><br/>
+     <p align="center">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🧠 Backend / Database / API" />
+  </p>
   
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" /><br/><br/>
 
-  <!-- ☁️ DevOps & Other Tools -->
-  <b>DevOps & Other Tools</b><br/>
+  <!--☁️ DevOps & Other Tools DevOps  -->
+   <p align="center">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="☁️ DevOps & Other Tools DevOps" />
+  </p>
   
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" /><br/><br/>
 
   <!-- 💻 Environment & Code Editors -->
-  <b>Environment / Code Editors</b><br/>
+    <p align="center">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="💻 Environment & Code Editors" />
+  </p>
   
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea," />
 </p>
 
 ---
 
-<h2 align="left">📊 GitHub Stats & Trophies</h2>
+<p align="left">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="📊 GitHub Stats & Trophies" />
+  </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadraoui-medamin&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadraoui-medamin&theme=radical" height="160"/>
@@ -63,7 +76,9 @@
 
 ---
 
-<h2 align="left">⚡ Recent Activity & Contribution Graph</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="⚡ Recent Activity & Contribution Graph" />
+  </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
@@ -76,11 +91,12 @@
   <img src="https://img.shields.io/badge/Team-Player-FF1493?style=for-the-badge&logo=slack" alt="Team Player" />
 </p>
 
-
-
 ---
 
-<h2 align="left">🐍 Contribution Snake Animation</h2>
+<p align="Left">
+    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🐍 Contribution Snake Animation" />
+  </p>
+  
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake-dark.svg">
