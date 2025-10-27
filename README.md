@@ -58,14 +58,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
-  <img src="https://img.shields.io/badge/Commits-Legendary-00BFFF?style=for-the-badge&logo=git" alt="Commits" />
-  <img src="https://img.shields.io/badge/Followers-Connect-7CFC00?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraoui-medamin&layout=compact&theme=radical height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraoui-medamin&layout=compact&theme=radical" />
-</p>
+
+
 
 ---
 
@@ -74,7 +71,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
+  <img src="https://img.shields.io/badge/Commits-Legendary-00BFFF?style=for-the-badge&logo=git" alt="Commits" />
+  <img src="https://img.shields.io/badge/Followers-Connect-7CFC00?style=for-the-badge&logo=github" alt="Followers" />
+</p>
 ---
 
 ### 🐍 Contribution Snake Animation
@@ -86,6 +87,7 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
 
 ### 🌐 Connect With Me
