@@ -8,15 +8,6 @@
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB%0%21" />
   </picture>
 </p>
-<p align="center">
-  <!-- Achievements / Badges -->
-  <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
-  <img src="https://img.shields.io/badge/Best-Coder-00BFFF?style=for-the-badge&logo=git" alt="Best Coder" />
-  <img src="https://img.shields.io/badge/Full-Stack-8A2BE2?style=for-the-badge&logo=stackshare" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Creative-FF8C00?style=for-the-badge&logo=figma" alt="Creative" />
-  <img src="https://img.shields.io/badge/Problem-Solver-32CD32?style=for-the-badge&logo=codeforces" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Team-Player-FF1493?style=for-the-badge&logo=slack" alt="Team Player" />
-</p>
 
 
 ---
@@ -77,10 +68,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
 <p align="center">
+  <!-- Achievements / Badges -->
   <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
-  <img src="https://img.shields.io/badge/Commits-Legendary-00BFFF?style=for-the-badge&logo=git" alt="Commits" />
-  <img src="https://img.shields.io/badge/Followers-Connect-7CFC00?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Best-Coder-00BFFF?style=for-the-badge&logo=git" alt="Best Coder" />
+  <img src="https://img.shields.io/badge/Full-Stack-8A2BE2?style=for-the-badge&logo=stackshare" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Problem-Solver-32CD32?style=for-the-badge&logo=codeforces" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/Team-Player-FF1493?style=for-the-badge&logo=slack" alt="Team Player" />
 </p>
+
 
 
 ---
