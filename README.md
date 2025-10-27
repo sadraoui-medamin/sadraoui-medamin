@@ -26,8 +26,12 @@
   
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Frontend Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Programming Luanguages" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin:5px;" />
+</p>
+
 
 <!-- Frontend Tools -->
 <p align="center">
