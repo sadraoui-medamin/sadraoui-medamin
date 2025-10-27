@@ -27,7 +27,7 @@
 
 <p align="center">
   
-   <!-- 🎨 Programming languages -->
+   <!-- </> Programming languages -->
   <b>langages</b><br/>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,c#,php" /><br/><br/>
   
@@ -37,11 +37,11 @@
 
   <!-- 🧠 Backend, Database & APIs -->
   <b>Backend / Database / API</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql*,postman,jwt" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqllite,oracledb,postman,jwt" /><br/><br/>
 
   <!-- ☁️ DevOps & Other Tools -->
   <b>DevOps & Other Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,vercel,netlify,aws,linux,bash" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,netlify,GKP,bash" /><br/><br/>
 
   <!-- 💻 Environment & Code Editors -->
   <b>Environment / Code Editors</b><br/>
@@ -58,7 +58,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadraoui-medamin&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
+  <img src="https://img.shields.io/badge/Commits-Legendary-00BFFF?style=for-the-badge&logo=git" alt="Commits" />
+  <img src="https://img.shields.io/badge/Followers-Connect-7CFC00?style=for-the-badge&logo=github" alt="Followers" />
 </p>
 
 <p align="center">
