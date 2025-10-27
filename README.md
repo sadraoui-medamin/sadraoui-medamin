@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Followers-Connect-7CFC00?style=for-the-badge&logo=github" alt="Followers" />
 </p>
 
+
 ---
 
 <h2 align="left">🐍 Contribution Snake Animation</h2>
@@ -102,6 +103,12 @@
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github&logoColor=fff&animation=glitch" />
+  <img src="https://img.shields.io/badge/Full-Stack-8A2BE2?style=for-the-badge&logo=stackshare&logoColor=fff&animation=glitch" />
+</p>
+
 
 ---
 
