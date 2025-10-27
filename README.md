@@ -24,26 +24,32 @@
 <h2 align="left">⚙️ Tech Stack & Tools</h2>
 <p align="center">
   
-   <p>"</> Programming languages"</p>
-   
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php," /><br/><br/>
-  
-  <p>🎨 Frontend </p>
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui," /><br/><br/>
-
-   <p>🧠 Backend, Database & APIs </p>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" /><br/><br/>
-
-   <p align="center">☁️ DevOps & Other Tools DevOps</p>
-  
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" /><br/><br/>
-
-    <p align="center">💻 Environment & Code Editors</p>
-  
-  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea," />
+<!-- Animated Title using Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Langages" alt="Langages" />
 </p>
+
+<!-- Skills Icons with spacing -->
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <!-- Backend / Database / API -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,python,java,postman,jwt,firebase" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,netlify,aws,linux,bash" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <!-- Environment & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,replit,notion" style="margin:5px;" />
+</p>
+
 
 ---
 
