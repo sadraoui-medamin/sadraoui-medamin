@@ -31,46 +31,42 @@
 
 <!-- Frontend Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" style="margin:5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Frontend Tools" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui" style="margin:5px;" />
 </p>
 
-<!-- Animated Title -->
+<!-- Backend / Database / API -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Backend+%26+Database+%26+API+%26+JWT" alt="Backend & API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Backend+%26+Database+%26+API" alt="Backend & Database" />
 </p>
-
-<!-- Backend / Database / API / JWT -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,postman,jwt" style="margin:5px;" />
-</p>
-
-<!-- Animated Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=400&lines=DevOps+%26+Other+Tools" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" style="margin:5px;" />
 </p>
 
 <!-- DevOps & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" style="margin:5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=400&lines=DevOps+%26+Tools" alt="DevOps & Tools" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" style="margin:5px;" />
 </p>
 
-<!-- Animated Title -->
+<!-- Environment & Code Editors -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Environment+%26+Code+Editors" alt="Environment & Editors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Environment+%26+Editors" alt="Environment & Editors" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea" style="margin:5px;" />
 </p>
 
-<!-- Environment / Code Editors -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin:5px;" />
-</p>
 
 
 
 ---
 
-<p align="left">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="📊 GitHub Stats & Trophies" />
-  </p>
+<h2 align="left">📊 GitHub Stats & Trophies </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadraoui-medamin&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadraoui-medamin&theme=radical" height="160"/>
@@ -82,9 +78,7 @@
 
 ---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="⚡ Recent Activity & Contribution Graph" />
-  </p>
+<h2 align="left">⚡ Recent Activity & Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
@@ -99,9 +93,7 @@
 
 ---
 
-<p align="Left">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🐍 Contribution Snake Animation" />
-  </p>
+<h2 align="left">🐍 Contribution Snake Animatio</h2>
   
 <p align="center">
   <picture>
