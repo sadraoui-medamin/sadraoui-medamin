@@ -30,12 +30,12 @@
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadraoui-medamin&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadraoui-medamin&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sadraoui-medamin&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### ⚡ Recent Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---
@@ -52,9 +52,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
