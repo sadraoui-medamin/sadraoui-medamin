@@ -23,18 +23,21 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
+  
+   <!-- 🎨 Programming languages -->
+  <b>langages</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,c#,php" /><br/><br/>
+  
   <!-- 🎨 Frontend -->
   <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,figma" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,antddesign,materialui," /><br/><br/>
 
   <!-- 🧠 Backend, Database & APIs -->
   <b>Backend / Database / API</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,python,java,postman,jwt,firebase" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql*,postman,jwt" /><br/><br/>
 
   <!-- ☁️ DevOps & Other Tools -->
   <b>DevOps & Other Tools</b><br/>
@@ -42,7 +45,7 @@
 
   <!-- 💻 Environment & Code Editors -->
   <b>Environment / Code Editors</b><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,replit,notion" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,intelij,pycharm,idea," />
 </p>
 
 ---
