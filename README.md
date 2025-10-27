@@ -1,5 +1,5 @@
 <!-- Your fancy GitHub Profile README 😎 -->
-<h1 align="center">Hey there, I'm <a href="https://github.com/YOURUSERNAME" target="_blank">YOUR NAME</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/sadraoui-medamin" target="_blank">Sadraoui Mohamed Amine</a> 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver | Open Source Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 💬 Ask me about **React, Node.js, MongoDB, or APIs**  
 - ⚙️ I love **clean code**, **animations**, and **cool UI tricks**  
 - 🌍 Based somewhere between code and coffee ☕  
-- 📫 Reach me: **your_email@example.com**
+- 📫 Reach me: **medaminsadraou111i@gmail.com**
 
 ---
 
@@ -48,26 +48,30 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURLINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOURTWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sadraouiMedamin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:medaminsadraou111i@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=brightgreen" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sadraoui-medamin&label=Profile+Views&color=brightgreen" alt="profile views"/>
 </p>
 
 <p align="center">
