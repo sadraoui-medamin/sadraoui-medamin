@@ -30,18 +30,22 @@
   
   <!-- 🎨 Frontend -->
   <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,antdesign,materialui," /><br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui," /><br/><br/>
 
   <!-- 🧠 Backend, Database & APIs -->
   <b>Backend / Database / API</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,oracle,postman" /><br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" /><br/><br/>
 
   <!-- ☁️ DevOps & Other Tools -->
   <b>DevOps & Other Tools</b><br/>
+  
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" /><br/><br/>
 
   <!-- 💻 Environment & Code Editors -->
   <b>Environment / Code Editors</b><br/>
+  
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea," />
 </p>
 
