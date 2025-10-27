@@ -1,11 +1,11 @@
 <!-- Your fancy GitHub Profile README 😎 -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/sadraoui-medamin" target="_blank">Sadraoui Mohamed Amine</a> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver </h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+Expert%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+Expert%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21" />
   </picture>
 </p>
 
@@ -25,8 +25,24 @@
 
 ### 🛠️ Tech Stack
 
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,tailwind,bootstrap,git,github,vscode,figma,postman,docker,linux" />
+  <!-- 🎨 Frontend -->
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,figma" /><br/><br/>
+
+  <!-- 🧠 Backend, Database & APIs -->
+  <b>Backend / Database / API</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,python,java,postman,jwt,firebase" /><br/><br/>
+
+  <!-- ☁️ DevOps & Other Tools -->
+  <b>DevOps & Other Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,vercel,netlify,aws,linux,bash" /><br/><br/>
+
+  <!-- 💻 Environment & Code Editors -->
+  <b>Environment / Code Editors</b><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,replit,notion" />
 </p>
 
 ---
