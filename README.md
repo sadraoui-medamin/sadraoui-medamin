@@ -11,7 +11,7 @@
 
 
 ---
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 >🧑‍💻 About Me</h2>
 - 💡 Passionate about **building scalable web apps** and **beautiful UIs**  
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **DevOps tools**  
 - 💬 Ask me about **React, Node.js, MongoDB, or APIs**  
@@ -20,7 +20,7 @@
 - 📫 Reach me: **medaminsadraou111i@gmail.com**
 
 ---
-<h2 align="center">⚙️ Tech Stack & Tools</h2>
+<h2 align="left">⚙️ Tech Stack & Tools</h2>
 <p align="center">
   
    <!-- </> Programming languages -->
@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Trophies</h2>
+<h2 align="left">📊 GitHub Stats & Trophies</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadraoui-medamin&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadraoui-medamin&theme=radical" height="160"/>
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">⚡ Recent Activity & Contribution Graph</h2>
+<h2 align="left">⚡ Recent Activity & Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
 </p>
@@ -70,7 +70,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake Animation</h2>
+<h2 align="left">🐍 Contribution Snake Animation</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake-dark.svg">
@@ -81,7 +81,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/sadraouiMedamin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:medaminsadraou111i@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
