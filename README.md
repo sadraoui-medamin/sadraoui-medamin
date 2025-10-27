@@ -12,6 +12,7 @@
 
 ---
 <h2 >🧑‍💻 About Me</h2>
+
 - 💡 Passionate about **building scalable web apps** and **beautiful UIs**  
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **DevOps tools**  
 - 💬 Ask me about **React, Node.js, MongoDB, or APIs**  
