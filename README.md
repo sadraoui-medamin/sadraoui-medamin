@@ -14,7 +14,7 @@
 <h2 >🧑‍💻 About Me</h2>
 
 - 💡 Passionate about **building scalable web apps** and **beautiful UIs**  
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **DevOps tools**  
+- 🌱 Currently learning  **DevOps tools**  
 - 💬 Ask me about **React, Node.js, MongoDB, or APIs**  
 - ⚙️ I love **clean code**, **animations**, and **cool UI tricks**  
 - 🌍 Based somewhere between code and coffee ☕  
@@ -26,7 +26,7 @@
   
    <!-- </> Programming languages -->
   <b>langages</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,c#,php" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php," /><br/><br/>
   
   <!-- 🎨 Frontend -->
   <b>Frontend</b><br/>
@@ -34,11 +34,11 @@
 
   <!-- 🧠 Backend, Database & APIs -->
   <b>Backend / Database / API</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,oracledb,postman,jwt" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,oracle,postman" /><br/><br/>
 
   <!-- ☁️ DevOps & Other Tools -->
   <b>DevOps & Other Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,,bash" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" /><br/><br/>
 
   <!-- 💻 Environment & Code Editors -->
   <b>Environment / Code Editors</b><br/>
