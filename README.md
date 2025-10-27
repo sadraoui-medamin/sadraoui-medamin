@@ -24,38 +24,23 @@
 <h2 align="left">⚙️ Tech Stack & Tools</h2>
 <p align="center">
   
-   <!-- </> Programming languages -->
-  <p align="center">
-  <img src="https://img.shields.io/badge/Coding-FullStack-ff69b4?style=for-the-badge&logo=github&logoColor=white&animation=glitch" alt="Langages" />
-</p>
-
+   <p>"</> Programming languages"</p>
+   
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php," /><br/><br/>
   
-  <!-- 🎨 Frontend -->
-     <p align="center">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🎨 frontend" />
-  </p>
+  <p>🎨 Frontend </p>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui," /><br/><br/>
 
-  <!-- 🧠 Backend, Database & APIs -->
-     <p align="center">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="🧠 Backend / Database / API" />
-  </p>
+   <p>🧠 Backend, Database & APIs </p>
   
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" /><br/><br/>
 
-  <!--☁️ DevOps & Other Tools DevOps  -->
-   <p align="center">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="☁️ DevOps & Other Tools DevOps" />
-  </p>
+   <p align="center">☁️ DevOps & Other Tools DevOps</p>
   
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" /><br/><br/>
 
-  <!-- 💻 Environment & Code Editors -->
-    <p align="center">
-    <img src="https://img.shields.io/badge/LANGAGES-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="💻 Environment & Code Editors" />
-  </p>
+    <p align="center">💻 Environment & Code Editors</p>
   
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea," />
 </p>
