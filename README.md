@@ -3,10 +3,10 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Love+to+build+cool+projects!+🔥" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Sadraoui+Med+Amine+👋;Full+Stack+Developer+💻;I+Love+Building+Cool+Things!+🔥" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+Expert%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer%0AMERN+Stack+Expert%0AReact+%7C+Node.js+%7C+Express+%7C+MongoDB%0ALove+to+build+cool+projects%21" />
+  </picture>
 </p>
 
 
@@ -61,13 +61,10 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 </p>
-
 ---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=random&theme=dark" />
@@ -83,13 +80,7 @@
 ---
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadraoui-medamin&theme=tokyonight)](https://wakatime.com/@sadraoui-medamin)
 ---
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
 ![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
-
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontColor=fff&animation=fadeIn&descAlignY=20" />
