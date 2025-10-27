@@ -42,6 +42,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sadraoui-medamin&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraoui-medamin&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ### ⚡ Recent Activity & Contribution Graph
@@ -61,31 +65,6 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sadraoui-medamin/sadraoui-medamin/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=random&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadraoui-medamin&repo=YourCoolRepo&theme=radical)](https://github.com/sadraoui-medamin/YourCoolRepo)
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraoui-medamin&layout=compact&theme=radical" />
-</p>
----
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadraoui-medamin&theme=tokyonight)](https://wakatime.com/@sadraoui-medamin)
----
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontColor=fff&animation=fadeIn&descAlignY=20" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
