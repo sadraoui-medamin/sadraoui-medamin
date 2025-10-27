@@ -24,31 +24,46 @@
 <h2 align="left">⚙️ Tech Stack & Tools</h2>
 <p align="center">
   
-<!-- Animated Title using Typing SVG -->
+<!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Langages" alt="Langages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Frontend Tools" />
 </p>
 
-<!-- Skills Icons with spacing -->
+<!-- Frontend Tools -->
 <p align="center">
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" style="margin:5px;" />
 </p>
 
+<!-- Animated Title -->
 <p align="center">
-  <!-- Backend / Database / API -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,python,java,postman,jwt,firebase" style="margin:5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Backend+%26+Database+%26+API+%26+JWT" alt="Backend & API" />
 </p>
 
+<!-- Backend / Database / API / JWT -->
 <p align="center">
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,netlify,aws,linux,bash" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java,postman,jwt" style="margin:5px;" />
 </p>
 
+<!-- Animated Title -->
 <p align="center">
-  <!-- Environment & Editors -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,replit,notion" style="margin:5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=400&lines=DevOps+%26+Other+Tools" alt="DevOps & Tools" />
 </p>
+
+<!-- DevOps & Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" style="margin:5px;" />
+</p>
+
+<!-- Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Environment+%26+Code+Editors" alt="Environment & Editors" />
+</p>
+
+<!-- Environment / Code Editors -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin:5px;" />
+</p>
+
 
 
 ---
