@@ -25,13 +25,13 @@
 <p align="center">
   
 <!-- Programming Languages -->
-<div align="center">
-  <div align="start">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin:5px;" />
+<div align="center" style="display: flex; justify-content: center; width: 100%;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: max-content;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" />
+  </div>
 </div>
-</div>
+
 
 
 <!-- Frontend Tools -->
