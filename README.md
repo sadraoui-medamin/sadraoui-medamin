@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB%0%21" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB%21" />
   </picture>
 </p>
 
@@ -25,11 +25,11 @@
 <p align="center">
   
 <!-- Animated Title -->
-<p align="start">
+<p align="center">
 <p align="start">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
 </p>
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin:5px;" />
 </p>
 </p>
