@@ -26,7 +26,7 @@
   
 <!-- Programming Languages -->
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
-  <div style="display: flex; flex-direction: column; align-items: center; width: max-content;">
+  <div style="display: flex; flex-direction: column; align-items: start; width: max-content;">
     <p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
     </p> 
