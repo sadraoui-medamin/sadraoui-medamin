@@ -26,7 +26,7 @@
   
 <!-- Programming Languages -->
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
-<div align="start" style="max-width: 400px;">
+<div style="text-align: start; max-width: 400px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF69B4&center=true&vStart=true&width=280&lines=Programming+Languages" alt="Programming Languages" />
     <br/>
     <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin:5px;" />
