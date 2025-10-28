@@ -28,11 +28,11 @@
 <div align="center" style="display: flex; justify-content: center; width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: start; width: max-content;">
         <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&lines=Programming+Languages" 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&lines=Programming+Languages" 
         alt="Programming Languages" 
-        style="width: max-content;"
+        style="width: max-content; display: flex;"
       />
-        <img style=" width: max-content;" src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" />
+        <img style=" width: max-content;  display: flex;" src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" />
   </div>
 </div>
 
