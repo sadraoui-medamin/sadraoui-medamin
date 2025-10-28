@@ -38,12 +38,12 @@
     <img  src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" /></div>
   </div>
 </div>
-
+</div>
 
 
 <!-- Frontend Tools -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Programming Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Frontend+Tools" alt="Programming Languages" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui" style="margin:5px;" />
@@ -51,7 +51,7 @@
 
 <!-- Backend / Database / API -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Backend+%26+Database+%26+API" alt="Backend & Database" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Backend+%26+Database+%26+API" alt="Backend & Database" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman" style="margin:5px;" />
@@ -59,7 +59,7 @@
 
 <!-- DevOps & Tools -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=400&lines=DevOps+%26+Tools" alt="DevOps & Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=400&lines=DevOps+%26+Tools" alt="DevOps & Tools" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,netlify,bash" style="margin:5px;" />
@@ -67,7 +67,7 @@
 
 <!-- Environment & Code Editors -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Environment+%26+Editors" alt="Environment & Editors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=400&lines=Environment+%26+Editors" alt="Environment & Editors" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,eclipse,pycharm,idea" style="margin:5px;" />
