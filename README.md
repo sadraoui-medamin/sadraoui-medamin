@@ -34,10 +34,11 @@
         
       />
     </div>
-   <div style=" width: max-content;  display: flex;">
-    <img  src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" /></div>
+     <div style=" width: max-content;  display: flex;">
+      <img  src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin-top: 10px;" /></div>
+    </div>
   </div>
-</div>
+ </div>
 </div>
 
 
