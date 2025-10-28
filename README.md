@@ -24,12 +24,12 @@
 <h2 align="left">⚙️ Tech Stack & Tools</h2>
 <p align="center">
   
-<!-- "Programming Languages -->
-<p align="center">
-<p align="start">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
+<!-- Programming Languages -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Programming Languages" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cs,php" style="margin:5px;" />
-</p>
+</div>
 
 
 <!-- Frontend Tools -->
