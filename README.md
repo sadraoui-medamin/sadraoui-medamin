@@ -82,10 +82,10 @@
 
 ---
 
-<h2 align="left">⚡ Recent Activity & Contribution Graph</h2>
+<!-- <h2 align="left">⚡ Recent Activity & Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadraoui-medamin&theme=tokyo-night" alt="activity graph" />
-</p>
+</p> -->
 <p align="center">
   <!-- Achievements / Badges -->
   <img src="https://img.shields.io/badge/Top-Projects-ff69b4?style=for-the-badge&logo=github" alt="Top Projects" />
