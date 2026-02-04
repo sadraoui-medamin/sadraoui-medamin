@@ -79,6 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadraoui-medamin&layout=compact&theme=radical" height="160"/>
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-coral.vercel.app?user=sadraoui-medamin&theme=cobalt" alt="GitHub Streak" /></a>
 
 ---
 
